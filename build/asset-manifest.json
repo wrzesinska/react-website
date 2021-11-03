@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ract-website-form/static/css/main.79b72c43.chunk.css",
+    "main.js": "/ract-website-form/static/js/main.a9c4af1f.chunk.js",
+    "main.js.map": "/ract-website-form/static/js/main.a9c4af1f.chunk.js.map",
+    "runtime-main.js": "/ract-website-form/static/js/runtime-main.e0bccc2b.js",
+    "runtime-main.js.map": "/ract-website-form/static/js/runtime-main.e0bccc2b.js.map",
+    "static/css/2.c8956ef5.chunk.css": "/ract-website-form/static/css/2.c8956ef5.chunk.css",
+    "static/js/2.7010ae20.chunk.js": "/ract-website-form/static/js/2.7010ae20.chunk.js",
+    "static/js/2.7010ae20.chunk.js.map": "/ract-website-form/static/js/2.7010ae20.chunk.js.map",
+    "index.html": "/ract-website-form/index.html",
+    "static/css/2.c8956ef5.chunk.css.map": "/ract-website-form/static/css/2.c8956ef5.chunk.css.map",
+    "static/css/main.79b72c43.chunk.css.map": "/ract-website-form/static/css/main.79b72c43.chunk.css.map",
+    "static/js/2.7010ae20.chunk.js.LICENSE.txt": "/ract-website-form/static/js/2.7010ae20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bccc2b.js",
+    "static/css/2.c8956ef5.chunk.css",
+    "static/js/2.7010ae20.chunk.js",
+    "static/css/main.79b72c43.chunk.css",
+    "static/js/main.a9c4af1f.chunk.js"
+  ]
+}
